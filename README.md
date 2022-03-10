@@ -13,11 +13,12 @@ Iteration runs itself again and again.
 
 Part 2:
         Explain:
-              Where would recursion be the best option?
+        
+Where would recursion be the best option?
 Recursion makes for very short code but has a much higher time complexity, so when you have the power too run it recursion generally makes code a lot shorter and cleaner
 
-              When would it not?
+When would it not?
 Recursion that needs too many layers can quickly overload a PC and infinite recursion due too mistakes in code can crash your computer
 
-              What are some specific examples of recursion that can work for you?
+What are some specific examples of recursion that can work for you?
 Recursion can be used for adding lists, the Fibonacci sequence, factorials, fractals and even sudoku.
